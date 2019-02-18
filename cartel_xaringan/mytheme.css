@@ -1,0 +1,19 @@
+.title-slide .remark-slide-content:before {
+  position: absolute;
+  content: url("logoSevillaR2.jpg");
+  height: 60px;
+}
+
+.title-slide {
+	background-color: #ffffff;
+}
+
+.title-slide h1, .title-slide h2, .title-slide h3 {
+  color: #000000;
+  text-shadow: 0 0 0 #ffffff;
+}
+
+
+.title-slide .remark-slide-number {
+  display: none;
+}

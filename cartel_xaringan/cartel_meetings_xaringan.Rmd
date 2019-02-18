@@ -1,0 +1,41 @@
+---
+output:
+  xaringan::moon_reader:
+    css: [default, default-fonts, mytheme.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+background-image: url("logoSevillaR2.jpg")
+background-size: 120px
+background-position: 5% 5%
+
+class: title-slide, center, middle
+
+
+
+## Grupo de Usuarios de R de Sevilla
+
+
+# Programación funcional en tidyverse: introducción a purrr
+
+
+### Juan Luis Pérez Carretero
+
+
+5 Marzo 2019, 19 a 20:30 h
+
+
+Sala TIC1, CRAI Reina Mercedes
+
+
+http://bit.ly/SevillaRmeetup
+
+
+
+<img align="left" src="logoRConsortium.png" height="50" width="150"/>
+<img align="right" src="logoDSC.png" height="50" width="150"/>
