@@ -24,7 +24,7 @@ class: title-slide, center, middle
 # IV Jacatón
 
 
-### 
+### Programando R de manera colaborativa
 
 
 6 Abril 2019, 10 h
