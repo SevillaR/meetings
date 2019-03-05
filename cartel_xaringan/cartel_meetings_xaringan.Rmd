@@ -12,7 +12,7 @@ output:
 
 background-image: url("logoSevillaR2.jpg")
 background-size: 120px
-background-position: 5% 5%
+background-position: 5% 17%
 
 class: title-slide, center, middle
 
