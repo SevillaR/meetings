@@ -7,12 +7,13 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      #ratio: 16:9
 ---
 
 
 background-image: url("logoSevillaR2.jpg")
-background-size: 120px
-background-position: 5% 17%
+background-size: 90px
+background-position: 5% 20%
 
 class: title-slide, center, middle
 
@@ -21,13 +22,13 @@ class: title-slide, center, middle
 ## Grupo de Usuarios de R de Sevilla
 
 
-# IV Jacatón
+# Selección de variables en Machine Learning
 
 
-### Programando R de manera colaborativa
+### Miguel Pavón Barrera
 
 
-6 Abril 2019, 10 h
+2 Abril 2019, 19 a 20:30 h
 
 
 Sala TIC4, CRAI Reina Mercedes
@@ -37,5 +38,7 @@ http://bit.ly/SevillaRmeetup
 
 
 
-<img align="left" src="logoRConsortium.png" height="50" width="160"/>
-<img align="right" src="logoDSC.png" height="50" width="150"/>
+<img align="left" src="logoRConsortium.png" height="40" width="150"/>
+<img align="right" src="logoDSC.png" height="40" width="140"/>
+
+
