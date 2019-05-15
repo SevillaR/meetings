@@ -22,16 +22,16 @@ class: title-slide, center, middle
 ## Grupo de Usuarios de R de Sevilla
 
 
-# Mapas interactivos con R y leaflet
+# Big Data con Spark y R
 
 
-### Francisco Rodríguez Sánchez
+### Manuel Chacón y Juan Andrés Tejero
 
 
-14 Mayo 2019, 19 h
+4 Junio 2019, 19 h
 
 
-Sala TIC5, CRAI Reina Mercedes
+Sala TIC4, CRAI Reina Mercedes
 
 
 http://bit.ly/SevillaRmeetup
