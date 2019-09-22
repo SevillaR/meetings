@@ -22,13 +22,13 @@ class: title-slide, center, middle
 ## Grupo de Usuarios de R de Sevilla
 
 
-# Big Data con Spark y R
+# Procesamiento de Lenguaje Natural con R
 
 
-### Manuel Chacón y Juan Andrés Tejero
+### Montse López Cobo
 
 
-4 Junio 2019, 19 h
+1 Octubre 2019, 19 h
 
 
 Sala TIC4, CRAI Reina Mercedes
