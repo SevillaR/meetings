@@ -22,13 +22,13 @@ class: title-slide, center, middle
 ## Grupo de Usuarios de R de Sevilla
 
 
-# Procesamiento de Lenguaje Natural con R
+# Teledetección con R
 
 
-### Montse López Cobo
+### Jerónimo Carranza
 
 
-1 Octubre 2019, 19 h
+12 Noviembre 2019, 19 a 20:30 h
 
 
 Sala TIC4, CRAI Reina Mercedes
