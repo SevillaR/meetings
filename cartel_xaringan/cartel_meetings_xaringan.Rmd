@@ -13,7 +13,7 @@ output:
 
 background-image: url("logoSevillaR2.jpg")
 background-size: 90px
-background-position: 5% 15%
+background-position: 10% 85%
 
 class: title-slide, center, middle
 
@@ -22,23 +22,20 @@ class: title-slide, center, middle
 ## Grupo de Usuarios de R de Sevilla
 
 
-# R - Commander: R para los que no saben, ni quieren aprender, R
+# Sacando el máximo partido a tidyverse
 
 
-### Manuel Muñoz Márquez
+### Julen Astigarraga
 
 
-4 Febrero 2020, 19 a 20:30 h
+13 Julio 2022, 19 a 20 h
 
 
-Sala TIC4, CRAI Reina Mercedes
+CRAI Reina Mercedes, Sala TIC 4 (2ª planta)
 
+https://bit.ly/SevillaRmeetup
 
-http://bit.ly/SevillaRmeetup
+<img align="right" src="logoRConsortium.png" height="40" width="150"/>
 
-
-
-<img align="left" src="logoRConsortium.png" height="40" width="150"/>
-<img align="right" src="logoDSC.png" height="40" width="140"/>
 
 
